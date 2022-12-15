@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 fall-dataset/
-test-dataset/
+test_dataset/
 
