@@ -45,7 +45,7 @@ The features include detailed sensor information for acceleration (in g, or 9.8m
 
 There are 3 different folders of CSV files in total.  Included in 2 of the 3 folders is a clear target (0 or 1) indicating if a fall occurred during the recording of the activity.  __[Previous work](https://arcogroup.bitbucket.io/shapes/fall_detection_system/)__ has been done by the authors to create a hybrid algorithm for fall detection, based on a Finite State Machine threshold algorithm, as well as an SVM (Support Vector Machine) machine learning algorithm.  Though I will not be following that hybrid model, I aim to try to replicate their findings while also building my own machine-learning understanding for human activity recognition tasks.  
 
-The environment utilized for this modeling is outlined in the __[requirements.txt](https://github.com/mccafj/Fall_Detection_Model/blob/main/data/requirements.txt)__ document. Using Anaconda, I created a new environment, starting with Python initially, and subsequently pip installing streamlit (contains NumPy and Pandas), watchdog, matplotlib, seaborn, jupyter notebook, scikit-learn (contains joblib), and conda installing XG boost.
+The environment utilized for this modeling is outlined in the __[requirements.txt](https://github.com/mccafj/Fall_Detection_Model/blob/main/requirements.txt)__ document. Using Anaconda, I created a new environment, starting with Python initially, and subsequently pip installing streamlit (contains NumPy and Pandas), watchdog, matplotlib, seaborn, jupyter notebook, scikit-learn (contains joblib), and conda installing XG boost.
 
 The entire modeling process was conducted on an HP Pavilion Laptop 15, with Windows 11 Pro version 22H2, a 12th Gen Intel(R) Core(TM) i7-1255U 1.70 GHz, and 16.0 GB RAM.
 
@@ -149,6 +149,6 @@ For any additional questions, please contact Jon McCaffrey (jonmccaffrey524@gmai
 ###### ├── __[README.md](https://github.com/mccafj/Fall_Detection_Model/blob/main/README.md)__
 ###### ├── __[Final notebook](https://github.com/mccafj/Fall_Detection_Model/blob/main/Notebook_Fall_Detection_Model.ipynb)__  <- Main notebook for project code
 ###### ├── __[Final slides](https://github.com/mccafj/Fall_Detection_Model/blob/main/Slides_Fall_Detection_Model.pdf)__      <- PDF of presentation slides
-###### ├── __[Reproducibility file](https://github.com/mccafj/Fall_Detection_Model/blob/main/data/requirements.txt)__   <- Information for reproducibility
+###### ├── __[Reproducibility file](https://github.com/mccafj/Fall_Detection_Model/blob/main/requirements.txt)__   <- Information for reproducibility
 ###### ├── __[Data](https://github.com/mccafj/Fall_Detection_Model/tree/main/data)__			                          <- Location of zipped datasets
 ###### └── __[Images](https://github.com/mccafj/Fall_Detection_Model/tree/main/images)__                              <- Images used and generated in the project
