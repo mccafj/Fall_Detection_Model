@@ -138,7 +138,7 @@ Thanks for reading :)
 
 **For More Information:**
 
-Please review the full analysis in my __[Jupyter Notebook](https://github.com/mccafj/Fall_Detection_Model/blob/main/Notebook_Fall_Detection_Model.ipynb)__ or the __[PDF of my slide presentation.](https://github.com/mccafj/Fall_Detection_Model/blob/main/Slides_Fall_Detection_Model.pdf)__
+Please review the full analysis in my __[Jupyter Notebook](https://github.com/mccafj/Fall_Detection_Model/blob/main/Notebook_Fall_Detection_Model.ipynb)__ or the __[PDF of my slide presentation.](https://github.com/mccafj/Fall_Detection_Model/blob/main/presentation.pdf)__
 
 For any additional questions, please contact Jon McCaffrey (jonmccaffrey524@gmail.com)
 
