@@ -90,7 +90,7 @@ XG Boost, even at its default hyperparameters, had the highest accuracy and reca
 
 ![times](images/x_train_time_bar.png)
 
-XG Boost may not technically be the fastest time, but it performs much better than the faster models (Logistic Regression 1 & 2, and Decision Tree) in all other metrics.  And XG Boost is much faster than the kNN models in terms of score time.
+XG Boost may not technically be the fastest time, but it performs much better than the faster models (Decision Tree, Logistic Regressions, and Gradient Boosting) in all other metrics.  And XG Boost is much faster than the kNN models in terms of score time.
 
 <a id='final'></a>
 # Final Model Evaluation
@@ -148,7 +148,7 @@ For any additional questions, please contact Jon McCaffrey (jonmccaffrey524@gmai
 
 ###### ├── __[README.md](https://github.com/mccafj/Fall_Detection_Model/blob/main/README.md)__
 ###### ├── __[Final notebook](https://github.com/mccafj/Fall_Detection_Model/blob/main/Notebook_Fall_Detection_Model.ipynb)__  <- Main notebook for project code
-###### ├── __[Final slides](https://github.com/mccafj/Fall_Detection_Model/blob/main/Slides_Fall_Detection_Model.pdf)__      <- PDF of presentation slides
+###### ├── __[Final slides](https://github.com/mccafj/Fall_Detection_Model/blob/main/presentation.pdf)__      <- PDF of presentation slides
 ###### ├── __[Reproducibility file](https://github.com/mccafj/Fall_Detection_Model/blob/main/requirements.txt)__   <- Information for reproducibility
 ###### ├── __[Data](https://github.com/mccafj/Fall_Detection_Model/tree/main/data)__			                          <- Location of zipped datasets
 ###### └── __[Images](https://github.com/mccafj/Fall_Detection_Model/tree/main/images)__                              <- Images used and generated in the project
